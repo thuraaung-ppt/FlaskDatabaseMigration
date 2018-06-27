@@ -1,2 +1,1 @@
-# FlaskDatabaseMigration
-Repo for database migration 
+Testing flask migration for beginners
